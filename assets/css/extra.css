@@ -125,10 +125,8 @@
 
 /* my favorite theme - tweaked solarized dark to be a bit warmer */
 /* personal note: I bumped the text brightness slightly, easier on my eyes */
+/* also nudged the background a tiny bit - #002b36 felt too blue-green for me */
 :root[theme="solarized-dark"] {
 	--background: #001e27;
 	--text: #b4c1c3;
-	--box-main: #003745;
-	--box-toggle: #2e4c52;
-	--box-separation: #2e4c52;
-	/* bumped th
+	--box-ma
