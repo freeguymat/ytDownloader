@@ -24,12 +24,14 @@ A modern GUI video and audio downloader supporting [hundreds of sites](https://g
 
 > **Tip:** To download only the audio from a YouTube video quickly from the terminal (bypassing the GUI), use: `yt-dlp -x --audio-format mp3 --audio-quality 0 <url>` — handy when the GUI feels like overkill.
 
+> **Tip:** For downloading entire YouTube playlists to a named subfolder automatically, use: `yt-dlp -x --audio-format mp3 --audio-quality 0 -o "%(playlist)s/%(title)s.%(ext)s" <playlist_url>` — keeps things tidy.
+
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/ytdownloader)
 [![Get AppImage](https://raw.githubusercontent.com/srevinsaju/get-appimage/master/static/badges/get-appimage-branding-blue.png)](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Linux.AppImage)
-<a href="https://flathub.org/apps/io.gitdownloadd7490b42f6.="https://github.com/aandrew-me/ytDownloader.dmg"><img src="https://cdn.jsdelivr.net/gh/aandrew-me/badges/download_mac_intel.png" style="width:200px;"></a>
-<a href="https://community.chocolatey.org/packages/ytdownloader"><img style="width:200px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66430340/238886537-7b2769fe-bd62-4921-a0eb-edf2eb06216d.png" alt="Chocolatey"></a>
+<a href="https://flathub.org/apps/io.gitdownloadd7490b42f6.="https://github.com/aandrew-me/ytDownloader="https://cdn.jsdelivr.net/gh/aandrew-me/badges/download_mac_intel.png" style="width:200px;"></a>
+<a href="https://community.chocolatdownloader"><img style="width:200px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66430340/238886537-7b2769fe-bd62-4921-a0eb-edf2eb06216d.png" alt="Chocolatey"></a>
 
 ## Features 🚀
 
 
-✅ Supports hundreds of sites including Youtube, Facebook, Instagram, Tiktok, Twitter and s
+✅ Supports
