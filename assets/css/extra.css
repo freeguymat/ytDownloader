@@ -130,7 +130,6 @@
 	--box-main: #003745;
 	--box-toggle: #2e4c52;
 	--box-separation: #2e4c52;
-	--box-toggleOn: #005a6f;
-	--item-bg: #003745;
-	--select: rgb(9, 57, 53);
-	--gree
+	/* bumped this up slightly, the default was too dark to see toggle state */
+	--box-toggleOn: #2a7a4f;
+	--box-toggle
