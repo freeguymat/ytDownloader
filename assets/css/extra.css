@@ -126,7 +126,19 @@
 /* my favorite theme - tweaked solarized dark to be a bit warmer */
 /* personal note: I bumped the text brightness slightly, easier on my eyes */
 /* also nudged the background a tiny bit - #002b36 felt too blue-green for me */
-:root[theme="solarized-dark"] {
-	--background: #001e27;
-	--text: #b4c1c3;
-	--box-ma
+:root[theme="solarized"] {
+	--background: #00252e;
+	--text: #d0c9b8;
+	--box-main: #073642;
+	--box-toggle: #0a4050;
+	--box-separation: #0a4050;
+	--box-toggleOn: #2aa198;
+	--item-bg: #0d4f60;
+	--select: #052e38;
+	--greenBtn: #859900;
+	--greenBtn-bottom: #5a6600;
+	--redBtn: #dc322f;
+	--redBtn-bottom: #a02320;
+	--blueBtn: #268bd2;
+	--blueBtn-bottom: #1a5f93;
+}
