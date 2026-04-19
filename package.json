@@ -17,7 +17,7 @@
     "productName": "ytDownloader",
     "copyright": "Copyright © 2024",
     "linux": {
-      "target": ["AppImage", "deb"],
+      "target": ["AppImage", "deb", "rpm"],
       "category": "Network",
       "icon": "assets/icons"
     },
